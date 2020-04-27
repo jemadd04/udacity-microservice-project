@@ -23,6 +23,20 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ---
 
+## Included Files:
+model_data folder
+output_txt_files folder
+Dockerfile
+Makefile
+app.py
+make_predictions.sh
+requirements.txt
+run_docker.sh
+run_kubernetes.sh
+upload_docker.sh
+
+---
+
 ## Setup the Environment
 
 * Create a virtualenv and activate it
