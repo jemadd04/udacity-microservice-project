@@ -25,15 +25,24 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ## Included Files:
 model_data folder
-output_txt_files folder
-Dockerfile
-Makefile
-app.py
-make_predictions.sh
-requirements.txt
-run_docker.sh
-run_kubernetes.sh
-upload_docker.sh
+<br />
+output_txt_files folder - contains both output files for predictions
+<br />
+Dockerfile - contains commands a user could call on the command lien to assemble an image
+<br />
+Makefile - instructions on environment setup and lint tests
+<br />
+app.py - main Python file
+<br />
+make_predictions.sh - script for making a prediction
+<br />
+requirements.txt - requirements
+<br />
+run_docker.sh - script for running Docker locally
+<br />
+run_kubernetes.sh - script for deploying kubernetes cluster
+<br />
+upload_docker.sh - script for uploading image to docker
 
 ---
 
